@@ -1,0 +1,1100 @@
+{
+      "forecast": {
+            "txt_forecast": {
+                  "date": "1:00 AM PST", 
+                  "forecastday": [
+                        {
+                              "title": "Tuesday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Partly cloudy. High of 22C. Winds less than 5 km/h.", 
+                              "period": 0, 
+                              "pop": "10", 
+                              "fcttext": "Partly cloudy. High of 72F. Winds less than 5 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Tuesday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Partly cloudy. Low of -5C. Winds from the WNW at 5 to 15 km/h.", 
+                              "period": 1, 
+                              "pop": "10", 
+                              "fcttext": "Partly cloudy. Low of 23F. Winds from the WNW at 5 to 10 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Wednesday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Partly cloudy. High of 20C. Winds less than 5 km/h.", 
+                              "period": 2, 
+                              "pop": "0", 
+                              "fcttext": "Partly cloudy. High of 68F. Winds less than 5 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Wednesday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/chancesnow.gif", 
+                              "fcttext_metric": "Mostly cloudy with a chance of snow after midnight. Low of -5C. Winds from the NW at 10 to 15 km/h. Chance of snow 30%.", 
+                              "period": 3, 
+                              "pop": "30", 
+                              "fcttext": "Mostly cloudy with a chance of snow after midnight. Low of 23F. Winds from the NW at 5 to 10 mph. Chance of snow 30%.", 
+                              "icon": "chancesnow"
+                        }, 
+                        {
+                              "title": "Thursday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/chancerain.gif", 
+                              "fcttext_metric": "Mostly cloudy with a chance of rain, then a chance of rain in the afternoon. High of 8C. Windy. Winds from the WNW at 20 to 25 km/h. Chance of rain 40%.", 
+                              "period": 4, 
+                              "pop": "40", 
+                              "fcttext": "Mostly cloudy with a chance of rain, then a chance of rain in the afternoon. High of 46F. Winds from the WNW at 10 to 15 mph. Chance of rain 40%.", 
+                              "icon": "chancerain"
+                        }, 
+                        {
+                              "title": "Thursday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Overcast in the evening, then clear. Low of -7C with a windchill as low as -13C. Breezy. Winds from the NNW at 15 to 20 km/h.", 
+                              "period": 5, 
+                              "pop": "0", 
+                              "fcttext": "Overcast in the evening, then clear. Low of 19F with a windchill as low as 9F. Winds from the NNW at 10 to 15 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Friday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Partly cloudy in the morning, then clear. High of 11C. Breezy. Winds from the NNW at 15 to 20 km/h.", 
+                              "period": 6, 
+                              "pop": "0", 
+                              "fcttext": "Partly cloudy in the morning, then clear. High of 52F. Winds from the NNW at 10 to 15 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Friday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/clear.gif", 
+                              "fcttext_metric": "Clear. Low of -6C. Breezy. Winds from the NW at 10 to 20 km/h.", 
+                              "period": 7, 
+                              "pop": "0", 
+                              "fcttext": "Clear. Low of 21F. Winds from the NW at 5 to 15 mph.", 
+                              "icon": "clear"
+                        }, 
+                        {
+                              "title": "Saturday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Partly cloudy. Fog early. High of 15C. Breezy. Winds from the NNW at 15 to 20 km/h.", 
+                              "period": 8, 
+                              "pop": "0", 
+                              "fcttext": "Partly cloudy. Fog early. High of 59F. Winds from the NNW at 10 to 15 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Saturday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/clear.gif", 
+                              "fcttext_metric": "Clear. Low of -4C with a windchill as low as -8C. Winds from the NW at 10 to 15 km/h.", 
+                              "period": 9, 
+                              "pop": "0", 
+                              "fcttext": "Clear. Low of 25F with a windchill as low as 18F. Winds from the NW at 5 to 10 mph.", 
+                              "icon": "clear"
+                        }, 
+                        {
+                              "title": "Sunday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/clear.gif", 
+                              "fcttext_metric": "Clear. High of 18C. Winds from the North at 10 to 15 km/h.", 
+                              "period": 10, 
+                              "pop": "0", 
+                              "fcttext": "Clear. High of 64F. Winds from the North at 5 to 10 mph.", 
+                              "icon": "clear"
+                        }, 
+                        {
+                              "title": "Sunday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/clear.gif", 
+                              "fcttext_metric": "Clear. Low of -3C. Winds less than 5 km/h.", 
+                              "period": 11, 
+                              "pop": "0", 
+                              "fcttext": "Clear. Low of 27F. Winds less than 5 mph.", 
+                              "icon": "clear"
+                        }, 
+                        {
+                              "title": "Monday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Partly cloudy. High of 18C. Winds less than 5 km/h.", 
+                              "period": 12, 
+                              "pop": "0", 
+                              "fcttext": "Partly cloudy. High of 64F. Winds less than 5 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Monday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Clear. Low of -1C. Winds less than 5 km/h.", 
+                              "period": 13, 
+                              "pop": "0", 
+                              "fcttext": "Clear. Low of 30F. Winds less than 5 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Tuesday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Partly cloudy. High of 17C. Winds less than 5 km/h.", 
+                              "period": 14, 
+                              "pop": "0", 
+                              "fcttext": "Partly cloudy. High of 63F. Winds less than 5 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Tuesday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Partly cloudy. Low of -4C. Winds less than 5 km/h.", 
+                              "period": 15, 
+                              "pop": "0", 
+                              "fcttext": "Partly cloudy. Low of 25F. Winds less than 5 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Wednesday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Clear. High of 15C. Winds less than 5 km/h.", 
+                              "period": 16, 
+                              "pop": "0", 
+                              "fcttext": "Clear. High of 59F. Winds less than 5 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Wednesday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Clear. Fog overnight. Low of -8C. Winds less than 5 km/h.", 
+                              "period": 17, 
+                              "pop": "0", 
+                              "fcttext": "Clear. Fog overnight. Low of 18F. Winds less than 5 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Thursday", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "fcttext_metric": "Clear. High of 14C. Winds less than 5 km/h.", 
+                              "period": 18, 
+                              "pop": "0", 
+                              "fcttext": "Clear. High of 57F. Winds less than 5 mph.", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "title": "Thursday Night", 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/clear.gif", 
+                              "fcttext_metric": "Clear. Low of -8C. Winds less than 5 km/h.", 
+                              "period": 19, 
+                              "pop": "0", 
+                              "fcttext": "Clear. Low of 18F. Winds less than 5 mph.", 
+                              "icon": "clear"
+                        }
+                  ]
+            }, 
+            "simpleforecast": {
+                  "forecastday": [
+                        {
+                              "avehumidity": 36, 
+                              "maxhumidity": 64, 
+                              "avewind": {
+                                    "kph": 5, 
+                                    "degrees": 218, 
+                                    "dir": "SW", 
+                                    "mph": 3
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 6, 
+                                    "degrees": 272, 
+                                    "dir": "West", 
+                                    "mph": 4
+                              }, 
+                              "minhumidity": 12, 
+                              "period": 1, 
+                              "pop": 10, 
+                              "skyicon": "partlycloudy", 
+                              "high": {
+                                    "fahrenheit": "72", 
+                                    "celsius": "22"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "low": {
+                                    "fahrenheit": "23", 
+                                    "celsius": "-5"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Tue", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1387346400", 
+                                    "sec": 0, 
+                                    "weekday": "Tuesday", 
+                                    "pretty": "10:00 PM PST on December 17, 2013", 
+                                    "year": 2013, 
+                                    "yday": 350, 
+                                    "day": 17, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "conditions": "Partly Cloudy", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "avehumidity": 47, 
+                              "maxhumidity": 61, 
+                              "avewind": {
+                                    "kph": 5, 
+                                    "degrees": 276, 
+                                    "dir": "West", 
+                                    "mph": 3
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 6, 
+                                    "degrees": 307, 
+                                    "dir": "NW", 
+                                    "mph": 4
+                              }, 
+                              "minhumidity": 14, 
+                              "period": 2, 
+                              "pop": 0, 
+                              "skyicon": "partlycloudy", 
+                              "high": {
+                                    "fahrenheit": "68", 
+                                    "celsius": "20"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.3, 
+                                    "in": 0.01
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "low": {
+                                    "fahrenheit": "23", 
+                                    "celsius": "-5"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Wed", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1387432800", 
+                                    "sec": 0, 
+                                    "weekday": "Wednesday", 
+                                    "pretty": "10:00 PM PST on December 18, 2013", 
+                                    "year": 2013, 
+                                    "yday": 351, 
+                                    "day": 18, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "conditions": "Partly Cloudy", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "avehumidity": 44, 
+                              "maxhumidity": 87, 
+                              "avewind": {
+                                    "kph": 19, 
+                                    "degrees": 318, 
+                                    "dir": "NW", 
+                                    "mph": 12
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/chancerain.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 24, 
+                                    "degrees": 327, 
+                                    "dir": "NNW", 
+                                    "mph": 15
+                              }, 
+                              "minhumidity": 23, 
+                              "period": 3, 
+                              "pop": 40, 
+                              "skyicon": "mostlycloudy", 
+                              "high": {
+                                    "fahrenheit": "46", 
+                                    "celsius": "8"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 2.5, 
+                                    "in": 0.1
+                              }, 
+                              "low": {
+                                    "fahrenheit": "19", 
+                                    "celsius": "-7"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Thu", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1387519200", 
+                                    "sec": 0, 
+                                    "weekday": "Thursday", 
+                                    "pretty": "10:00 PM PST on December 19, 2013", 
+                                    "year": 2013, 
+                                    "yday": 352, 
+                                    "day": 19, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 2.3, 
+                                    "in": 0.09
+                              }, 
+                              "conditions": "Chance Rain", 
+                              "icon": "chancerain"
+                        }, 
+                        {
+                              "avehumidity": 56, 
+                              "maxhumidity": 70, 
+                              "avewind": {
+                                    "kph": 14, 
+                                    "degrees": 330, 
+                                    "dir": "NNW", 
+                                    "mph": 9
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 19, 
+                                    "degrees": 345, 
+                                    "dir": "NNW", 
+                                    "mph": 12
+                              }, 
+                              "minhumidity": 16, 
+                              "period": 4, 
+                              "pop": 0, 
+                              "skyicon": "sunny", 
+                              "high": {
+                                    "fahrenheit": "52", 
+                                    "celsius": "11"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "low": {
+                                    "fahrenheit": "21", 
+                                    "celsius": "-6"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Fri", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1387605600", 
+                                    "sec": 0, 
+                                    "weekday": "Friday", 
+                                    "pretty": "10:00 PM PST on December 20, 2013", 
+                                    "year": 2013, 
+                                    "yday": 353, 
+                                    "day": 20, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "conditions": "Partly Cloudy", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "avehumidity": 39, 
+                              "maxhumidity": 100, 
+                              "avewind": {
+                                    "kph": 14, 
+                                    "degrees": 331, 
+                                    "dir": "NNW", 
+                                    "mph": 9
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 19, 
+                                    "degrees": 343, 
+                                    "dir": "NNW", 
+                                    "mph": 12
+                              }, 
+                              "minhumidity": 29, 
+                              "period": 5, 
+                              "pop": 0, 
+                              "skyicon": "sunny", 
+                              "high": {
+                                    "fahrenheit": "59", 
+                                    "celsius": "15"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "low": {
+                                    "fahrenheit": "25", 
+                                    "celsius": "-4"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Sat", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1387692000", 
+                                    "sec": 0, 
+                                    "weekday": "Saturday", 
+                                    "pretty": "10:00 PM PST on December 21, 2013", 
+                                    "year": 2013, 
+                                    "yday": 354, 
+                                    "day": 21, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "conditions": "Partly Cloudy", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "avehumidity": 61, 
+                              "maxhumidity": 80, 
+                              "avewind": {
+                                    "kph": 6, 
+                                    "degrees": 212, 
+                                    "dir": "SSW", 
+                                    "mph": 4
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/clear.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 11, 
+                                    "degrees": 5, 
+                                    "dir": "North", 
+                                    "mph": 7
+                              }, 
+                              "minhumidity": 22, 
+                              "period": 6, 
+                              "pop": 0, 
+                              "skyicon": "sunny", 
+                              "high": {
+                                    "fahrenheit": "64", 
+                                    "celsius": "18"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "low": {
+                                    "fahrenheit": "27", 
+                                    "celsius": "-3"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Sun", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1387778400", 
+                                    "sec": 0, 
+                                    "weekday": "Sunday", 
+                                    "pretty": "10:00 PM PST on December 22, 2013", 
+                                    "year": 2013, 
+                                    "yday": 355, 
+                                    "day": 22, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "conditions": "Clear", 
+                              "icon": "clear"
+                        }, 
+                        {
+                              "avehumidity": 55, 
+                              "maxhumidity": 80, 
+                              "avewind": {
+                                    "kph": 2, 
+                                    "degrees": 238, 
+                                    "dir": "WSW", 
+                                    "mph": 1
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 3, 
+                                    "degrees": 231, 
+                                    "dir": "SW", 
+                                    "mph": 2
+                              }, 
+                              "minhumidity": 23, 
+                              "period": 7, 
+                              "pop": 0, 
+                              "skyicon": "partlycloudy", 
+                              "high": {
+                                    "fahrenheit": "64", 
+                                    "celsius": "18"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "low": {
+                                    "fahrenheit": "30", 
+                                    "celsius": "-1"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Mon", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1387864800", 
+                                    "sec": 0, 
+                                    "weekday": "Monday", 
+                                    "pretty": "10:00 PM PST on December 23, 2013", 
+                                    "year": 2013, 
+                                    "yday": 356, 
+                                    "day": 23, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "conditions": "Partly Cloudy", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "avehumidity": 48, 
+                              "maxhumidity": 65, 
+                              "avewind": {
+                                    "kph": 5, 
+                                    "degrees": 57, 
+                                    "dir": "ENE", 
+                                    "mph": 3
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 8, 
+                                    "degrees": 12, 
+                                    "dir": "NNE", 
+                                    "mph": 5
+                              }, 
+                              "minhumidity": 22, 
+                              "period": 8, 
+                              "pop": 0, 
+                              "skyicon": "partlycloudy", 
+                              "high": {
+                                    "fahrenheit": "63", 
+                                    "celsius": "17"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "low": {
+                                    "fahrenheit": "25", 
+                                    "celsius": "-4"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Tue", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1387951200", 
+                                    "sec": 0, 
+                                    "weekday": "Tuesday", 
+                                    "pretty": "10:00 PM PST on December 24, 2013", 
+                                    "year": 2013, 
+                                    "yday": 357, 
+                                    "day": 24, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "conditions": "Partly Cloudy", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "avehumidity": 81, 
+                              "maxhumidity": 99, 
+                              "avewind": {
+                                    "kph": 6, 
+                                    "degrees": 25, 
+                                    "dir": "NNE", 
+                                    "mph": 4
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 8, 
+                                    "degrees": 16, 
+                                    "dir": "NNE", 
+                                    "mph": 5
+                              }, 
+                              "minhumidity": 33, 
+                              "period": 9, 
+                              "pop": 0, 
+                              "skyicon": "sunny", 
+                              "high": {
+                                    "fahrenheit": "59", 
+                                    "celsius": "15"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "low": {
+                                    "fahrenheit": "18", 
+                                    "celsius": "-8"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Wed", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1388037600", 
+                                    "sec": 0, 
+                                    "weekday": "Wednesday", 
+                                    "pretty": "10:00 PM PST on December 25, 2013", 
+                                    "year": 2013, 
+                                    "yday": 358, 
+                                    "day": 25, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "conditions": "Partly Cloudy", 
+                              "icon": "partlycloudy"
+                        }, 
+                        {
+                              "avehumidity": 73, 
+                              "maxhumidity": 100, 
+                              "avewind": {
+                                    "kph": 5, 
+                                    "degrees": 23, 
+                                    "dir": "NNE", 
+                                    "mph": 3
+                              }, 
+                              "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", 
+                              "snow_allday": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "maxwind": {
+                                    "kph": 6, 
+                                    "degrees": 16, 
+                                    "dir": "NNE", 
+                                    "mph": 4
+                              }, 
+                              "minhumidity": 32, 
+                              "period": 10, 
+                              "pop": 0, 
+                              "skyicon": "mostlysunny", 
+                              "high": {
+                                    "fahrenheit": "57", 
+                                    "celsius": "14"
+                              }, 
+                              "qpf_night": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "qpf_allday": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "low": {
+                                    "fahrenheit": "18", 
+                                    "celsius": "-8"
+                              }, 
+                              "snow_night": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "date": {
+                                    "tz_short": "PST", 
+                                    "weekday_short": "Thu", 
+                                    "isdst": "0", 
+                                    "monthname": "December", 
+                                    "hour": 22, 
+                                    "min": "00", 
+                                    "ampm": "PM", 
+                                    "tz_long": "America/Los_Angeles", 
+                                    "month": 12, 
+                                    "epoch": "1388124000", 
+                                    "sec": 0, 
+                                    "weekday": "Thursday", 
+                                    "pretty": "10:00 PM PST on December 26, 2013", 
+                                    "year": 2013, 
+                                    "yday": 359, 
+                                    "day": 26, 
+                                    "monthname_short": "Dec"
+                              }, 
+                              "snow_day": {
+                                    "cm": 0, 
+                                    "in": 0
+                              }, 
+                              "qpf_day": {
+                                    "mm": 0.0, 
+                                    "in": 0.0
+                              }, 
+                              "conditions": "Partly Cloudy", 
+                              "icon": "partlycloudy"
+                        }
+                  ]
+            }
+      }, 
+      "response": {
+            "termsofService": "http://www.wunderground.com/weather/api/d/terms.html", 
+            "version": "0.1", 
+            "features": {
+                  "geolookup": 1, 
+                  "forecast10day": 1
+            }
+      }, 
+      "location": {
+            "city": "Bishop", 
+            "magic": "1", 
+            "requesturl": "US/CA/Bishop.html", 
+            "zip": "93514", 
+            "lon": "-118.577100", 
+            "country": "US", 
+            "tz_long": "America/Los_Angeles", 
+            "l": "/q/zmw:93514.1.99999", 
+            "lat": "37.329100", 
+            "state": "CA", 
+            "wmo": "99999", 
+            "wuiurl": "http://www.wunderground.com/US/CA/Bishop.html", 
+            "country_iso3166": "US", 
+            "country_name": "USA", 
+            "type": "CITY", 
+            "tz_short": "PST", 
+            "nearby_weather_stations": {
+                  "airport": {
+                        "station": [
+                              {
+                                    "city": "Bishop", 
+                                    "country": "US", 
+                                    "lon": "-118.35805511", 
+                                    "icao": "KBIH", 
+                                    "state": "CA", 
+                                    "lat": "37.37111282"
+                              }, 
+                              {
+                                    "city": "Mammoth", 
+                                    "country": "US", 
+                                    "lon": "-118.83875275", 
+                                    "icao": "KMMH", 
+                                    "state": "CA", 
+                                    "lat": "37.62405777"
+                              }, 
+                              {
+                                    "city": "Fresno", 
+                                    "country": "US", 
+                                    "lon": "-119.71944427", 
+                                    "icao": "KFAT", 
+                                    "state": "CA", 
+                                    "lat": "36.77999878"
+                              }, 
+                              {
+                                    "city": "Visalia", 
+                                    "country": "US", 
+                                    "lon": "-119.39289093", 
+                                    "icao": "KVIS", 
+                                    "state": "CA", 
+                                    "lat": "36.31866837"
+                              }
+                        ]
+                  }, 
+                  "pws": {
+                        "station": [
+                              {
+                                    "city": "Bishop", 
+                                    "neighborhood": "RAWS OWENS VALLEY CA US", 
+                                    "distance_mi": 4, 
+                                    "country": "US", 
+                                    "lon": -118.552574, 
+                                    "state": "CA", 
+                                    "distance_km": 7, 
+                                    "lat": 37.391006, 
+                                    "id": "MOVRC1"
+                              }, 
+                              {
+                                    "city": "Bishop", 
+                                    "neighborhood": "MeadowCreek", 
+                                    "distance_mi": 8, 
+                                    "country": "US", 
+                                    "lon": -118.422455, 
+                                    "state": "CA", 
+                                    "distance_km": 14, 
+                                    "lat": 37.384388, 
+                                    "id": "KCABISHO2"
+                              }, 
+                              {
+                                    "city": "Bishop", 
+                                    "neighborhood": "Wilkerson", 
+                                    "distance_mi": 10, 
+                                    "country": "US", 
+                                    "lon": -118.387085, 
+                                    "state": "CA", 
+                                    "distance_km": 17, 
+                                    "lat": 37.285259, 
+                                    "id": "KCABISHO8"
+                              }, 
+                              {
+                                    "city": "Big Pine", 
+                                    "neighborhood": "Big Pine", 
+                                    "distance_mi": 18, 
+                                    "country": "US", 
+                                    "lon": -118.289948, 
+                                    "state": "CA", 
+                                    "distance_km": 31, 
+                                    "lat": 37.159515, 
+                                    "id": "KCABISHO4"
+                              }, 
+                              {
+                                    "city": "Bishop", 
+                                    "neighborhood": "Swall Meadows", 
+                                    "distance_mi": 11, 
+                                    "country": "US", 
+                                    "lon": -118.624931, 
+                                    "state": "CA", 
+                                    "distance_km": 19, 
+                                    "lat": 37.499969, 
+                                    "id": "KCABISHO5"
+                              }, 
+                              {
+                                    "city": "Crowley Lake", 
+                                    "neighborhood": "RAWS ROCK CREEK CA US", 
+                                    "distance_mi": 16, 
+                                    "country": "US", 
+                                    "lon": -118.678406, 
+                                    "state": "CA", 
+                                    "distance_km": 27, 
+                                    "lat": 37.559826, 
+                                    "id": "MRCEC1"
+                              }, 
+                              {
+                                    "city": "Bishop", 
+                                    "neighborhood": "HADS SOUTH LAKE CABIN NEAR BISHOP 16S CA US", 
+                                    "distance_mi": 10, 
+                                    "country": "US", 
+                                    "lon": -118.570557, 
+                                    "state": "CA", 
+                                    "distance_km": 17, 
+                                    "lat": 37.168331, 
+                                    "id": "MSOUC1"
+                              }, 
+                              {
+                                    "city": "Mammoth Lakes", 
+                                    "neighborhood": "HADS ROCK CREEK LAKES NEAR MAMMOTH LA CA US", 
+                                    "distance_mi": 12, 
+                                    "country": "US", 
+                                    "lon": -118.716667, 
+                                    "state": "CA", 
+                                    "distance_km": 20, 
+                                    "lat": 37.473331, 
+                                    "id": "MRCKC1"
+                              }, 
+                              {
+                                    "city": "Big Pine", 
+                                    "neighborhood": "HADS SAWMILL NEAR PIG PINE 15W CA US CADWR", 
+                                    "distance_mi": 11, 
+                                    "country": "US", 
+                                    "lon": -118.561668, 
+                                    "state": "CA", 
+                                    "distance_km": 19, 
+                                    "lat": 37.158329, 
+                                    "id": "MSAWC1"
+                              }
+                        ]
+                  }
+            }
+      }
+}
