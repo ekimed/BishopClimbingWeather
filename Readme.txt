@@ -2,13 +2,16 @@ A simple webpage that shows the 10-day forecast for Bishop, CA, a world-class bo
 
 
 updateweather.py
-Weather data is retrieved as a JSON file from the Wunderground API.
+Weather data is retrieved as a JSON file from the Wunderground API. This file gets updated every 4 hours (re: crontest.txt)
 
 getweather.py
 weekday, temperature, and condition are retrieved from the JSON file.
 
 routes.py
 employs Flask to render templates
+
+crontest.txt
+A text file containing a cronjob that runs the updateweather.py python script every 4 hours
 
 templates
 contains html templates using the jinja2 templating engine
