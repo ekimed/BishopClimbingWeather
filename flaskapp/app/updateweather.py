@@ -1,6 +1,5 @@
 import urllib2
 import json
-import re
 
 
 coordinate_dict = {'Bishop':'37.3291,-118.5771'}
