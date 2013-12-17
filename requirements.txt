@@ -1,0 +1,5 @@
+python==2.7
+Flask==0.10
+Jinja2==2.8
+virtualenv==1.10.1
+
