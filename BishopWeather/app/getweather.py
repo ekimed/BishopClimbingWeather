@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import urllib2
 import json
 from collections import defaultdict

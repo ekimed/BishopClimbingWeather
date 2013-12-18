@@ -11,11 +11,11 @@ routes.py
 employs Flask to render templates
 
 crontest.txt
-A text file containing a cronjob that runs the updateweather.py python script every 4 hours
+A text file containing a cronjob that runs the updateweather.py python script every 4 hours. Add this to crontab.
 
 templates
-contains html templates using the jinja2 templating engine
+Contains html templates using the jinja2 templating engine.
 
 static 
-contains css files
+Contains css file.
 

@@ -1,1 +1,1 @@
-0 */4 * * * /Users/EuniceKim/Desktop/Programming/flaskapp/app/updateweather.py
+0 */4 * * * python /Users/EuniceKim/Desktop/Programming/flaskapp/app/updateweather.py
