@@ -1,0 +1,64 @@
+{
+  "Bishop": [
+    [
+      "Sunday", 
+      "62", 
+      "17", 
+      "Clear"
+    ], 
+    [
+      "Monday", 
+      "61", 
+      "16", 
+      "Clear"
+    ], 
+    [
+      "Tuesday", 
+      "63", 
+      "17", 
+      "Partly Cloudy"
+    ], 
+    [
+      "Wednesday", 
+      "57", 
+      "14", 
+      "Clear"
+    ], 
+    [
+      "Thursday", 
+      "61", 
+      "16", 
+      "Clear"
+    ], 
+    [
+      "Friday", 
+      "61", 
+      "16", 
+      "Partly Cloudy"
+    ], 
+    [
+      "Saturday", 
+      "55", 
+      "13", 
+      "Chance Rain"
+    ], 
+    [
+      "Sunday", 
+      "57", 
+      "14", 
+      "Chance Rain"
+    ], 
+    [
+      "Monday", 
+      "57", 
+      "14", 
+      "Clear"
+    ], 
+    [
+      "Tuesday", 
+      "61", 
+      "16", 
+      "Clear"
+    ]
+  ]
+}
